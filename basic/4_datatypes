@@ -1,0 +1,20 @@
+//premitive
+// 1 string .2 boolean. 3.  number . 4 null . 5 undefined .6 bigint 7 symbol 
+  let myString='hello';
+  let myBoolean=false/true
+  let bigInt=555566n
+
+
+//non premitive (refrence)  1 Array  2 object 3 function
+
+const myArray=['sonu','monu','ranu'];
+
+//object
+let myobj={
+    name:'sonu',
+    age:18
+};
+const myFunction=function(){
+    console.log('hello');
+
+}
